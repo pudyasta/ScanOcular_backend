@@ -99,10 +99,10 @@ DATABASES = {
     # }
     "default": {
         "ENGINE": "django.db.backends.mysql",
-        "NAME": "scanocular",
-        "USER": "root",
-        "PASSWORD": "123",
-        "HOST": "localhost",  # Change this if your MySQL server is on a different host
+        "NAME": "u556939220_scanocular2",
+        "USER": "u556939220_scanocular2",
+        "PASSWORD": "Scanocular2",
+        "HOST": "trpl.space",  # Change this if your MySQL server is on a different host
         "PORT": "3306",  # Change this if your MySQL server is using a different port
     }
 }
